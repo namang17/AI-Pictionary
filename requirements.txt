@@ -1,0 +1,9 @@
+# requirements.txt
+opencv-python
+Pillow
+pyttsx3
+customtkinter
+torch
+torchvision
+numpy
+pywin32
